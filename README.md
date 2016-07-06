@@ -26,3 +26,5 @@
 ## Other Notes
 
 Check out inheritance.rb for some details on how class inheritance works.
+
+Forked from [scott](https://github.com/scott-ad-riley)
